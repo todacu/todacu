@@ -31,6 +31,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.    
-      - name: Profile Readme Stats
-        uses: teoxoy/profile-readme-stats@v1
-
