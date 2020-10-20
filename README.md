@@ -1,4 +1,6 @@
-### Hi there, I'm Tom, a Computing and Cyber Security graduate from the United Kingdom.
+### Hi there, I'm Tom!
+
+I am a _Computing_ and _Cyber Security_ graduate from the United Kingdom.
 
 **Education:** BSc Computing, and MSc Cyber Security
 
