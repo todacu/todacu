@@ -4,7 +4,7 @@ I am a _Computing_ and _Cyber Security_ graduate from the United Kingdom.
 </br></br>
 **Education:** BSc Computing, and MSc Cyber Security
 
-**Tools/Services used:** Visual Studio, IDA Pro, OllyDbg, Android Studio, AWS, etc
+**Tools/Services used:** Visual Studio, IDA Pro, OllyDbg, Android Studio, AWS, x64dbg etc
 
 **Most Proficient In:** C++, C, and PHP
 
